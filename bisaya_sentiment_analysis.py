@@ -117,3 +117,4 @@ index = 0
 #     print(list_of_preprocessed_text[index])
 #     index+=1
 print(dfPreprocessedText)
+print("continue with preparing the preprocess data for the BI-GRU model or neural network use the keras deeplearning API for neural network to prepare data")
